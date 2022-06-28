@@ -1,0 +1,2 @@
+#!/bin/bash
+for %f in (C:\FOLDER1\FOLDER2\FOLDER3\.) do set myfolder=%~nxf
